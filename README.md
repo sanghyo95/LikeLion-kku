@@ -19,7 +19,7 @@
 
 4. 가상환경을 실행시킵니다.
 
-``` source myvenv/scripts/activate ```
+``` source 가상환경명/scripts/activate ```
 
 5. 필요한 패키지를 설치합니다.
 
